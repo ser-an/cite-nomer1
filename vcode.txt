@@ -1,0 +1,8 @@
+bracket Pair Coloriser - скобы устанавливает
+auto rename tag  - h1->h2
+prettier Code Format - выравниет строчки
+live Server 5.6.1
+vs html to css
+
+
+
